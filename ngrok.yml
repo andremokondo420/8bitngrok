@@ -1,4 +1,4 @@
-authtoken: GANTI_DENGAN_TOKEN_KAMU
+authtoken: 6ad5bbad-8fc2-4208-8609-679d5998e8cd
 tunnels:
   mikrotik:
     addr: 192.168.4.1:8291
