@@ -1,0 +1,5 @@
+authtoken: GANTI_DENGAN_TOKEN_KAMU
+tunnels:
+  mikrotik:
+    addr: 192.168.4.1:8291
+    proto: tcp
